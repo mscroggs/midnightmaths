@@ -1,0 +1,10 @@
+theme: jekyll-theme-slate
+site_favicon: assets/icons/favicon.ico
+title: Midnight Maths
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
